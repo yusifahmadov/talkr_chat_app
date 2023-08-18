@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>565137996846-lmncdgitsmq9e3qm5ujm36tiaupjaeje.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.565137996846-lmncdgitsmq9e3qm5ujm36tiaupjaeje</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCds3Mr_-T8P77JdNpRmY9OdrTNKrAn9Wk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>565137996846</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ahmadov.talkr</string>
+	<key>PROJECT_ID</key>
+	<string>talkr-ca31c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>talkr-ca31c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:565137996846:ios:7071248a17715e369d73bf</string>
+</dict>
+</plist>

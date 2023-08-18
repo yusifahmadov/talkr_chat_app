@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "565137996846",
+    "project_id": "talkr-ca31c",
+    "storage_bucket": "talkr-ca31c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565137996846:android:8f560c2f6fd6f23c9d73bf",
+        "android_client_info": {
+          "package_name": "com.ahmadov.talkr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565137996846-it6okpdsaerh66rk5vg9r067eoc9ksrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCewnd4G0MvoXXic92vBPBQu9-f86yhcQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565137996846-it6okpdsaerh66rk5vg9r067eoc9ksrv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "565137996846-lmncdgitsmq9e3qm5ujm36tiaupjaeje.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ahmadov.talkr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
